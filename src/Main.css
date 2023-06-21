@@ -1,0 +1,11 @@
+.par{
+    font-size: 1.5rem;
+    color: black;
+}
+
+.button{
+    border-radius: 1rem;
+    padding: 1rem;
+    font-weight: 700;
+    color:magenta;
+}
